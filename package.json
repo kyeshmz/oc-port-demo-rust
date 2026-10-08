@@ -7,6 +7,6 @@
     "test": "cargo test"
   },
   "devDependencies": {
-    "oc-port-agent": "file:/Users/kyeshmz/Documents/personal/oc-port-agent-demo/.tooling/oc-port-agent-0.1.0.tgz"
+    "oc-port-agent": "file:/Users/kyeshmz/Documents/personal/oc-port-agent-demo/.tooling/oc-port-agent-1791503100512.tgz"
   }
 }
