@@ -1,0 +1,12 @@
+{
+  "name": "retry-policy-rust-tooling",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "port": "oc-port-agent",
+    "test": "cargo test"
+  },
+  "devDependencies": {
+    "oc-port-agent": "file:/Users/kyeshmz/Documents/personal/oc-port-agent-demo/.tooling/oc-port-agent-0.1.0.tgz"
+  }
+}

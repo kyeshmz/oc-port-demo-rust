@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "role": "upstream-reference",
+  "language": "rust",
+  "features": [{
+    "id": "retry-policy",
+    "description": "Capped exponential retry delay for unsigned 32-bit attempt indices.",
+    "paths": ["src/lib.rs", "src/main.rs"],
+    "verification": ["cargo test"]
+  }],
+  "note": "This source advertises functionality. Only the TypeScript target runs synchronization; no reverse sync is enabled."
+}
